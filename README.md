@@ -17,7 +17,7 @@
 ### The project can be run by following these steps:
 1.Clone the repository.<br>
 2.Install the dependencies using pip install -r requirements.txt.<br>
-3.Run the main.py file.<br>
+3.Run the Linear Regression.py file.<br>
 
 ### The project will output the following:
 1.The accuracy of the model on the test data.<br>
