@@ -1,4 +1,4 @@
-# House-Presiction-Model-Using-Linear-Regression
+# House-Prediction-Model-Using-Linear-Regression
 
 ### This project uses linear regression to predict the price of a house. The project is divided into the following steps:
 1.Data preparation: The data is prepared by cleaning it and removing any errors or outliers.<br>
